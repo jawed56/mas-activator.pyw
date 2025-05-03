@@ -37,7 +37,7 @@ class MASInterface:
         # Titre
         title_label = tk.Label(
             main_frame,
-            text=" Interface Graphique avec Python®",
+            text=" Interface Graphique avec Python ®",
             font=("Arial", 18, "bold"),
             fg="#ffffff",
             bg="#0a0a0a"
