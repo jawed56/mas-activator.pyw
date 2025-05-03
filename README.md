@@ -13,9 +13,9 @@ Ce projet fournit une interface graphique (GUI) développée avec Python et Tkin
 ## 🖼️ Captures d'Écran
 Les captures d'écran suivantes illustrent l'utilisation du script (voir le dossier `screenshots/`) :
 - **Interface principale** : ![Interface](screenshots/interface.png)  
-- **Message de succès après activation** : ![Activation Success](screenshots/activation_success.png)  
-- **Message d'erreur après échec** : ![Activation Error](screenshots/activation_error.png)  
-- **Vérification de l'état d'activation** : ![Check Status](screenshots/check_status.png)
+- **Message de succès après activation** : ![Activation Success](screenshots/activation-success.png)  
+- **Message d'erreur après échec** : ![Activation Error](screenshots/activation-error.png)  
+- **Vérification de l'état d'activation** : ![Check Status](screenshots/check-status.png)
 
 ## ⚙️ Prérequis
 - **Système d'exploitation** : Windows 10/11 (nécessite un environnement graphique).
