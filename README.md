@@ -1,7 +1,4 @@
 # Scripts d'Activation Microsoft v3.1
-
-![Capture d'écran](interface.png)
-
 ## 📋 Introduction
 Ce projet fournit une interface graphique (GUI) développée avec Python et Tkinter pour simplifier l'activation de Windows et Microsoft Office. Il utilise le script **Microsoft Activation Scripts (MAS)**, disponible sur [massgrave.dev](https://massgrave.dev), pour effectuer les activations. L'interface propose plusieurs méthodes d'activation (HWID, KMS38, Ohook, etc.) et des outils comme la vérification de l'état d'activation, avec une animation arc-en-ciel en arrière-plan pour une touche visuelle.
 
