@@ -1,6 +1,6 @@
 # 📘 Documentation Technique : Scripts d'Activation Microsoft v3.1
 
-                  ![Capture d'écran](interface.png)
+           ![Capture d'écran](interface.png)
 
 ## 📜 Introduction
 Ce document fournit une documentation technique détaillée pour *Scripts d'Activation Microsoft v3.1*, une interface graphique (GUI) développée avec Python et Tkinter. Ce projet simplifie l'activation de Windows et Microsoft Office en utilisant le script **Microsoft Activation Scripts (MAS)**, téléchargé depuis [massgrave.dev](https://massgrave.dev). Il inclut des fonctionnalités d'activation, des outils de vérification, et une animation arc-en-ciel pour l'arrière-plan.
