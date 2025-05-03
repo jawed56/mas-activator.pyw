@@ -94,9 +94,9 @@ Inconvénients
 Disponibles dans le dossier screenshots/ :
 
     interface.png : Interface graphique principale.
-    activation_success.png : Message de succès après activation.
-    activation_error.png : Message d'erreur après échec.
-    check_status.png : Résultat de la vérification d'état.
+    activation-success.png : Message de succès après activation.
+    activation-error.png : Message d'erreur après échec.
+    check-status.png : Résultat de la vérification d'état.
 
 🐞 Problèmes Connus
 
